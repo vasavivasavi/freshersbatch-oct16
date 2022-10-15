@@ -1,3 +1,3 @@
 <script>
-alert('Hello world,this is javascript');
+alert('Hello world');
 </script>
